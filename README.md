@@ -1,4 +1,4 @@
-Hardwares tem que ser chutados e softwares softwares tem que ser chutados
+Hardwares tem que ser chutados e softwares softwares tem que ser xingados
 
 <!--
 Esse é um [site](https://empres-exemplo.000webhostapp.com/index.html) que dou umas melhoradas quando tenho vontade 
