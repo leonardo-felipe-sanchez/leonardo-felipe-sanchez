@@ -1,4 +1,4 @@
-Temos que chutar todos os hardwares e xingar todos os softwares que veremos
+Hardwares tem que ser chutados e softwares softwares tem que ser chutados
 
 <!--
 Esse é um [site](https://empres-exemplo.000webhostapp.com/index.html) que dou umas melhoradas quando tenho vontade 
