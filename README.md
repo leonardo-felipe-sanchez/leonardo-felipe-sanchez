@@ -1,5 +1,14 @@
 Hardwares tem que ser chutados e softwares softwares tem que ser xingados
 
+
+Meus projetos:
+
+https://empres-exemplo.000webhostapp.com/index.html
+
+3leventos.com.br
+
+https://app-basic.vercel.app/dashboard.html
+
 <!--
 Esse é um [site](https://empres-exemplo.000webhostapp.com/index.html) que dou umas melhoradas quando tenho vontade 
  
