@@ -5,7 +5,7 @@ Meus projetos:
 
 https://empres-exemplo.000webhostapp.com/index.html
 
-3leventos.com.br
+https://3leventos.com.br
 
 https://app-basic.vercel.app/dashboard.html
 
